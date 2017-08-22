@@ -9,18 +9,13 @@ ul li{
 }
 #top, #middle,#bottom{
 	height: 100%;
-}
-#top{
- background-color: #EE9933;
-}
-#bottom {
- background-color: #138808;
+	background-color: #000000;
 }
 #middle{
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	color: #000080;
+	color: #ffffff;
 	font-size: 50px;
 	font-family: 'Permanent Marker', cursive;
 }
