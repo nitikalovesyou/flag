@@ -1,2 +1,1 @@
-# flag.github.io
-just for fun
+Flag - Independence Day special
